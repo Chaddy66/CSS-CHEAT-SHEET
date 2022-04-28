@@ -20,4 +20,16 @@ body{
 .box-1{
     background-color: #333;
     color: #f4f4f4;
+
+    border-right: 5px red solid;
+    border-left: 5px blue solid;
+    border-top: 5px green solid;
+    border-bottom: 5px yellow solid;
+    /* same as above*/
+    border: 5px red solid;
+
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style:dotted
+    
 }
